@@ -23,6 +23,9 @@ HTML/CSS: For structuring and styling the application.
 JavaScript: To provide interactivity and fetch data from the TMDB API.
 TMDB API: For fetching movie information.
 
+## Demo
+Please watch the demo video for a better understanding
+
 ### Installation
 
 1. **Clone the repository**:
@@ -32,4 +35,7 @@ git clone https://github.com/yourusername/movie-search-app.git
 cd movie-search-app
 Open index.html in your browser.
 You can either double-click the file or open it through your browser's file menu.
+
+
+
 
